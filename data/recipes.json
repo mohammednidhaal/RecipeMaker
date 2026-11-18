@@ -1,0 +1,1477 @@
+[
+  {
+    "id": "rec_001",
+    "name": "Chicken Tomato Rice",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 500.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "rice",
+        "quantity": 300.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "tomato",
+        "quantity": 3.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "black pepper",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Wash and dice the chicken breast into bite-sized pieces.",
+      "Heat olive oil in a large skillet over medium-high heat. Add sliced onions and minced garlic; saut\u00e9 for 3 minutes until fragrant.",
+      "Add diced chicken, salt, and black pepper. Sear until chicken begins to brown (about 5 minutes).",
+      "Stir in chopped tomatoes and rinsed rice, mixing well to coat the grains.",
+      "Pour in 600ml of water or chicken broth. Bring to a gentle boil.",
+      "Reduce heat to low, cover tightly with a lid, and simmer for 15-18 minutes until rice is tender and liquid is absorbed.",
+      "Fluff with a fork and rest for 5 minutes before serving."
+    ],
+    "tips": "Garnish with fresh parsley or squeeze fresh lemon juice over the top for brightness."
+  },
+  {
+    "id": "rec_002",
+    "name": "Spicy Chicken Fried Rice",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "meal_type": "lunch",
+    "diet": [
+      "non-vegetarian",
+      "spicy",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": 300.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "cooked rice",
+        "quantity": 300.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "chili pepper",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 2.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "chili powder",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Heat sesame oil in a wok or large frying pan over high heat.",
+      "Add minced garlic, sliced onions, and chopped fresh chilies; stir-fry for 1 minute.",
+      "Add thinly sliced chicken and cook until fully opaque and browned (4-5 minutes).",
+      "Add cold cooked rice and break up any clumps with a spatula.",
+      "Drizzle soy sauce and sprinkle chili powder over the rice.",
+      "Toss vigorously over high heat for 3 minutes until steaming and slightly charred.",
+      "Serve hot immediately."
+    ],
+    "tips": "Day-old cold jasmine rice yields the best texture without turning mushy."
+  },
+  {
+    "id": "rec_003",
+    "name": "One-Pot Chicken Rice",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "comfort-food"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 500.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "rice",
+        "quantity": 350.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "ginger",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "chicken broth",
+        "quantity": 500.0,
+        "unit": "ml",
+        "notes": null
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1.5,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "scallions",
+        "quantity": 2.0,
+        "unit": "stalks",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Marinate chicken thighs in soy sauce, grated ginger, and minced garlic for 10 minutes.",
+      "Heat a deep pot over medium heat and sear chicken skin-side down until golden.",
+      "Add washed, drained rice to the pot and stir for 1 minute with the pan juices.",
+      "Pour chicken broth over the rice and arrange chicken thighs on top.",
+      "Bring to a boil, cover tightly, and lower heat to simmer for 20 minutes.",
+      "Turn off the heat, keep covered for 10 minutes to steam, then garnish with scallions."
+    ],
+    "tips": "Substitute bone-in chicken thighs for even richer broth flavor."
+  },
+  {
+    "id": "rec_004",
+    "name": "Classic Egg Sandwich",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 5,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "meal_type": "breakfast",
+    "diet": [
+      "vegetarian",
+      "quick",
+      "budget"
+    ],
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "bread",
+        "quantity": 2.0,
+        "unit": "slices",
+        "notes": null
+      },
+      {
+        "name": "butter",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "black pepper",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "cheese",
+        "quantity": 1.0,
+        "unit": "slices",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Whisk eggs with salt and black pepper in a small bowl.",
+      "Melt butter in a non-stick frying pan over medium heat.",
+      "Pour eggs into the skillet and gently scramble until soft curds form (about 2 minutes).",
+      "Toast bread slices until golden brown.",
+      "Layer the scrambled eggs and cheese between the toasted bread slices.",
+      "Slice diagonally and serve immediately."
+    ],
+    "tips": "Add fresh spinach or sliced avocado for extra nutrition."
+  },
+  {
+    "id": "rec_005",
+    "name": "French Toast",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "difficulty": "Easy",
+    "cuisine": "French",
+    "meal_type": "breakfast",
+    "diet": [
+      "vegetarian",
+      "budget"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 4.0,
+        "unit": "slices",
+        "notes": null
+      },
+      {
+        "name": "eggs",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "milk",
+        "quantity": 100.0,
+        "unit": "ml",
+        "notes": null
+      },
+      {
+        "name": "cinnamon",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "butter",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "honey",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "In a shallow dish, whisk together eggs, milk, and ground cinnamon.",
+      "Dip bread slices into the mixture, letting each soak for 20 seconds per side.",
+      "Melt butter in a skillet over medium heat.",
+      "Cook bread slices for 2-3 minutes per side until golden brown and cooked through.",
+      "Drizzle with honey and serve warm."
+    ],
+    "tips": "Brioche or thick-cut stale sandwich bread works best."
+  },
+  {
+    "id": "rec_006",
+    "name": "Vegetable Tomato Pasta",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 200.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "tomato",
+        "quantity": 3.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "oregano",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil. Cook pasta according to package instructions (approx. 9-11 min) until al dente.",
+      "Meanwhile, heat olive oil in a pan. Saut\u00e9 diced onion and minced garlic for 3 minutes.",
+      "Add chopped tomatoes, salt, and oregano. Simmer for 8-10 minutes until sauce thickens.",
+      "Drain pasta and reserve 50ml of cooking water.",
+      "Toss pasta directly into the tomato sauce, adding reserved water if needed for silky coating.",
+      "Garnish with basil or chili flakes and serve."
+    ],
+    "tips": "Add red pepper flakes if you prefer an Arrabbiata spicy profile."
+  },
+  {
+    "id": "rec_007",
+    "name": "Spicy Tomato Garlic Pasta",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "spicy"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 200.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "tomato",
+        "quantity": 3.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 4.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "chili flakes",
+        "quantity": 1.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Cook pasta in salted boiling water until al dente; drain and save 1/4 cup pasta water.",
+      "In a skillet, heat olive oil over medium-low heat. Add thinly sliced garlic and chili flakes; sizzle for 90 seconds.",
+      "Add crushed tomatoes and salt. Simmer for 10 minutes until aromatic and rich.",
+      "Fold in drained pasta with pasta water and stir vigorously for 1 minute.",
+      "Serve piping hot."
+    ],
+    "tips": "Top with freshly grated parmesan or nutritional yeast for vegan cheese flavor."
+  },
+  {
+    "id": "rec_008",
+    "name": "Creamy Dal Tadka (Lentil Curry)",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 25,
+    "difficulty": "Easy",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "high-protein",
+      "budget"
+    ],
+    "ingredients": [
+      {
+        "name": "yellow lentils",
+        "quantity": 200.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "tomato",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "turmeric",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Rinse lentils thoroughly. Boil in 600ml water with turmeric and 1/2 tsp salt for 20 minutes until soft.",
+      "In a small pan, heat oil. Add cumin seeds; let them splutter.",
+      "Add chopped onion and garlic; saut\u00e9 until golden brown.",
+      "Add diced tomatoes and remaining salt; cook until tomatoes break down into a paste.",
+      "Pour the aromatic tadka (tempering) over the cooked lentils and stir gently.",
+      "Simmer together for 3 minutes and serve with steamed rice or flatbread."
+    ],
+    "tips": "Add fresh cilantro and a squeeze of lime juice at the end."
+  },
+  {
+    "id": "rec_009",
+    "name": "Chicken Wrap",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "difficulty": "Easy",
+    "cuisine": "Mediterranean",
+    "meal_type": "lunch",
+    "diet": [
+      "non-vegetarian",
+      "high-protein",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 250.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "tortilla wraps",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "lettuce",
+        "quantity": 50.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "tomato",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "yogurt",
+        "quantity": 3.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 1.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Slice chicken into strips. Season with salt, pepper, and garlic powder.",
+      "Pan-fry chicken in olive oil over medium-high heat for 6-8 minutes until cooked through.",
+      "Mix yogurt with minced garlic and a pinch of salt to make a quick garlic sauce.",
+      "Warm the tortillas slightly in a dry pan.",
+      "Spread garlic yogurt sauce, layer lettuce, sliced tomatoes, and warm cooked chicken.",
+      "Fold the sides in and roll tightly into a wrap."
+    ],
+    "tips": "Toast the finished wrap seam-side down for 1 minute for a crispy exterior."
+  },
+  {
+    "id": "rec_010",
+    "name": "Fruit and Honey Yogurt Bowl",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 0,
+    "difficulty": "Easy",
+    "cuisine": "Global",
+    "meal_type": "snack",
+    "diet": [
+      "vegetarian",
+      "quick",
+      "healthy"
+    ],
+    "ingredients": [
+      {
+        "name": "yogurt",
+        "quantity": 200.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "honey",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "banana",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "berries",
+        "quantity": 50.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "almonds",
+        "quantity": 15.0,
+        "unit": "g",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Spoon fresh Greek yogurt into a serving bowl.",
+      "Slice banana and arrange on top alongside washed fresh berries.",
+      "Scatter chopped almonds over the fruit for crunch.",
+      "Drizzle with honey and serve chilled."
+    ],
+    "tips": "Substitute maple syrup or agave nectar for a vegan alternative with plant-based yogurt."
+  },
+  {
+    "id": "rec_011",
+    "name": "Hearty Oatmeal with Fruit",
+    "servings": 1,
+    "prep_time": 3,
+    "cook_time": 7,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "meal_type": "breakfast",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      {
+        "name": "rolled oats",
+        "quantity": 50.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "water or milk",
+        "quantity": 250.0,
+        "unit": "ml",
+        "notes": null
+      },
+      {
+        "name": "banana",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "cinnamon",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "honey or maple syrup",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Combine oats and liquid in a small saucepan over medium heat.",
+      "Bring to a gentle boil, stirring frequently to prevent sticking.",
+      "Simmer for 4-5 minutes until creamy and thickened.",
+      "Transfer to a bowl, top with sliced banana, a dash of cinnamon, and sweetener."
+    ],
+    "tips": "Add a spoonful of peanut butter for extra protein."
+  },
+  {
+    "id": "rec_012",
+    "name": "Tofu Vegetable Stir Fry",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Asian",
+    "meal_type": "dinner",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "high-protein",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "quantity": 300.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "mixed vegetables",
+        "quantity": 250.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 2.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "ginger",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Press tofu with paper towels to remove excess moisture and cut into bite-sized cubes.",
+      "Heat sesame oil in a wok. Fry tofu cubes for 6-8 minutes until golden and crisp; remove and set aside.",
+      "In the same wok, toss in minced garlic, ginger, and mixed vegetables (broccoli, carrots, peppers). Stir-fry for 4 minutes.",
+      "Return crispy tofu to the pan, pour over soy sauce, and toss thoroughly for 1 minute.",
+      "Serve warm over steamed rice or noodles."
+    ],
+    "tips": "Coat tofu lightly in cornstarch before pan-frying for maximum crunch."
+  },
+  {
+    "id": "rec_013",
+    "name": "Authentic Chicken Biryani",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 35,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "spicy"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 600.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "basmati rice",
+        "quantity": 400.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": "thinly sliced & caramelized"
+      },
+      {
+        "name": "yogurt",
+        "quantity": 150.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "biryani masala or garam masala",
+        "quantity": 2.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "turmeric",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "chili powder",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "ghee or oil",
+        "quantity": 3.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "mint and cilantro",
+        "quantity": 0.5,
+        "unit": "cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "salt",
+        "quantity": 2.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, chili powder, turmeric, and 1 tsp salt for 20 minutes.",
+      "Wash basmati rice and boil in salted water with whole spices until 70% cooked (about 6 minutes); drain.",
+      "In a heavy bottom pot, heat ghee and fry onions until deep golden brown. Set half aside for garnish.",
+      "Add marinated chicken to the pot and sear over medium heat for 8 minutes.",
+      "Layer the partially cooked basmati rice over the chicken. Sprinkle caramelized onions, chopped mint, and cilantro on top.",
+      "Seal the pot with foil and a tight lid (dum style). Cook on very low heat for 20 minutes to allow the steam to infuse the layers.",
+      "Gently fluff the rice and chicken from bottom to top and serve with cucumber raita."
+    ],
+    "tips": "Soak a few strands of saffron in warm milk and drizzle over the rice before sealing for radiant golden color and royal aroma."
+  },
+  {
+    "id": "rec_014",
+    "name": "Butter Chicken (Murgh Makhani)",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 25,
+    "difficulty": "Medium",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "comfort-food"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast or thighs",
+        "quantity": 500.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "butter",
+        "quantity": 3.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "tomato puree",
+        "quantity": 400.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "heavy cream",
+        "quantity": 100.0,
+        "unit": "ml",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 4.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "ginger",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "kashmiri chili powder",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "kasuri methi (fenugreek leaves)",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "sugar or honey",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Cut chicken into chunks, season with chili powder, ginger-garlic paste, and salt, and sear in a pan with 1 tbsp butter until lightly charred (6-8 minutes). Set aside.",
+      "In the same skillet, melt remaining butter. Add minced ginger and garlic; cook for 1 minute.",
+      "Pour in tomato puree and simmer for 10 minutes until oil begins to separate.",
+      "Stir in garam masala, sugar, salt, and heavy cream, whisking until a silky, velvety orange sauce forms.",
+      "Add cooked chicken pieces back into the gravy and simmer gently for 5 minutes.",
+      "Crush kasuri methi between your palms and scatter over the curry before removing from heat.",
+      "Serve warm with garlic naan or basmati rice."
+    ],
+    "tips": "Kasuri methi (dried fenugreek leaves) is the secret restaurant ingredient that gives butter chicken its distinctive signature taste."
+  },
+  {
+    "id": "rec_015",
+    "name": "Pan-Seared Lemon Garlic Salmon with Asparagus",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "difficulty": "Easy",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "high-protein",
+      "healthy",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "salmon fillets",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": "approx 350g"
+      },
+      {
+        "name": "asparagus",
+        "quantity": 200.0,
+        "unit": "g",
+        "notes": "trimmed"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": "minced"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": "juiced and sliced"
+      },
+      {
+        "name": "butter or olive oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "black pepper",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Pat salmon fillets dry with paper towels; season both sides with salt, pepper, and garlic powder.",
+      "Melt butter and olive oil in a skillet over medium-high heat.",
+      "Place salmon skin-side up and sear undisturbed for 4 minutes until a crisp golden crust forms. Flip carefully.",
+      "Toss trimmed asparagus spears into the pan around the salmon fillets.",
+      "Add minced garlic, fresh lemon juice, and lemon slices into the bubbling butter; spoon the garlic lemon butter continuously over the salmon.",
+      "Cook for another 3-4 minutes until salmon flakes easily with a fork and asparagus is tender-crisp.",
+      "Serve immediately with pan juices drizzled over top."
+    ],
+    "tips": "Do not move the salmon during the first 4 minutes of searing to guarantee a restaurant-quality crispy crust without tearing."
+  },
+  {
+    "id": "rec_016",
+    "name": "Classic Street Beef Tacos",
+    "servings": 3,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "ground beef or black beans",
+        "quantity": 400.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "small corn or flour tortillas",
+        "quantity": 6.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": "finely diced"
+      },
+      {
+        "name": "cilantro",
+        "quantity": 0.25,
+        "unit": "cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "lime",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": "cut into wedges"
+      },
+      {
+        "name": "cumin",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "chili powder",
+        "quantity": 1.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "garlic powder",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Heat a skillet over medium-high heat. Add ground beef and break it apart with a spatula.",
+      "Cook for 5-6 minutes until browned; drain excess fat if needed.",
+      "Sprinkle chili powder, cumin, garlic powder, and salt over the beef. Stir in 50ml water and simmer for 3 minutes until rich and coated.",
+      "Warm tortillas on a dry griddle or skillet for 30 seconds per side until pliable and slightly charred.",
+      "Spoon seasoned beef into the center of each warm tortilla.",
+      "Top with diced raw onions and fresh cilantro.",
+      "Serve hot with fresh lime wedges for squeezing."
+    ],
+    "tips": "Double up on corn tortillas street-taco style to prevent juices from soaking through."
+  },
+  {
+    "id": "rec_017",
+    "name": "Shakshuka (Poached Eggs in Spiced Tomato Pepper Sauce)",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "difficulty": "Easy",
+    "cuisine": "Middle Eastern",
+    "meal_type": "breakfast",
+    "diet": [
+      "vegetarian",
+      "healthy"
+    ],
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 4.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "canned or fresh tomatoes",
+        "quantity": 400.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": "sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 3.0,
+        "unit": "cloves",
+        "notes": null
+      },
+      {
+        "name": "cumin",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "smoked paprika",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "feta cheese",
+        "quantity": 50.0,
+        "unit": "g",
+        "notes": "optional garnish"
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a cast-iron or heavy skillet. Saut\u00e9 chopped onion and bell pepper for 5 minutes until tender.",
+      "Add minced garlic, cumin, smoked paprika, and salt; stir for 1 minute until fragrant.",
+      "Pour in crushed tomatoes. Simmer gently for 8-10 minutes until the sauce thickens.",
+      "Use the back of a large spoon to create 4 small wells in the bubbling sauce.",
+      "Crack an egg gently into each well.",
+      "Cover skillet and cook on low heat for 5-7 minutes until egg whites are set but yolks remain gloriously runny.",
+      "Scatter crumbled feta and fresh parsley over the top. Serve hot with crusty bread for dipping."
+    ],
+    "tips": "Do not overcook the eggs; pull the skillet off the heat while yolks still have a gentle wobble as residual heat finishes cooking."
+  },
+  {
+    "id": "rec_018",
+    "name": "Paneer Butter Masala",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "difficulty": "Easy",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "diet": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "ingredients": [
+      {
+        "name": "paneer",
+        "quantity": 400.0,
+        "unit": "g",
+        "notes": "cubed"
+      },
+      {
+        "name": "butter",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "tomatoes",
+        "quantity": 4.0,
+        "unit": "pieces",
+        "notes": "pureed"
+      },
+      {
+        "name": "onion",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "heavy cream or cashew paste",
+        "quantity": 4.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "ginger-garlic paste",
+        "quantity": 1.5,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "kasuri methi",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "chili powder",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Soak paneer cubes in warm water for 10 minutes so they remain pillow-soft.",
+      "Melt butter in a skillet. Saut\u00e9 finely chopped onion and ginger-garlic paste until golden.",
+      "Add tomato puree, chili powder, and salt. Simmer for 8 minutes until thickened and fragrant.",
+      "Stir in heavy cream and garam masala to form a luxurious, smooth gravy.",
+      "Drain paneer cubes and gently fold into the simmering gravy. Cook for 3-4 minutes.",
+      "Finish with crushed kasuri methi and serve alongside hot roti or jeera rice."
+    ],
+    "tips": "Soaking paneer in warm salted water before cooking prevents it from turning rubbery."
+  },
+  {
+    "id": "rec_019",
+    "name": "Classic Fluffy Pancakes",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "meal_type": "breakfast",
+    "diet": [
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": 150.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "milk",
+        "quantity": 200.0,
+        "unit": "ml",
+        "notes": null
+      },
+      {
+        "name": "egg",
+        "quantity": 1.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "baking powder",
+        "quantity": 2.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "sugar",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "melted butter",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "In a bowl, whisk together flour, baking powder, sugar, and salt.",
+      "In a separate cup, whisk egg, milk, and melted butter.",
+      "Pour wet ingredients into dry ingredients and stir gently until just combined. A few small lumps are perfectly fine.",
+      "Heat a lightly greased non-stick skillet over medium-low heat.",
+      "Pour 1/4 cup batter for each pancake. Cook until bubbles appear on the surface and edges look set (about 2-3 minutes).",
+      "Flip carefully and cook the other side for 1-2 minutes until golden brown.",
+      "Serve warm stacked high with butter and maple syrup."
+    ],
+    "tips": "Do not overmix the batter! Overmixing develops gluten and makes pancakes tough rather than fluffy."
+  },
+  {
+    "id": "rec_020",
+    "name": "Warm Molten Chocolate Lava Cake",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "difficulty": "Medium",
+    "cuisine": "French",
+    "meal_type": "snack",
+    "diet": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "dark chocolate",
+        "quantity": 100.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "butter",
+        "quantity": 50.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "eggs",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": null
+      },
+      {
+        "name": "sugar",
+        "quantity": 40.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "flour",
+        "quantity": 20.0,
+        "unit": "g",
+        "notes": null
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 200\u00b0C (400\u00b0F). Grease two ramekins and dust with cocoa powder.",
+      "Melt dark chocolate and butter together in a heatproof bowl set over simmering water (or microwave in 20-second bursts). Stir until smooth.",
+      "Whisk eggs and sugar together vigorously in another bowl until pale and slightly frothy.",
+      "Fold melted chocolate mixture into the eggs, then gently sift in the flour and vanilla.",
+      "Divide batter evenly between the prepared ramekins.",
+      "Bake for exactly 11-12 minutes until the edges are firm and center is soft and jiggly.",
+      "Let cool for 1 minute, run a knife around edges, invert onto plates, and dust with powdered sugar."
+    ],
+    "tips": "Watch the baking time closely! Even 2 extra minutes will turn the molten center into standard cake."
+  },
+  {
+    "id": "rec_syn_6498",
+    "name": "Tender Ribeye Steak With Garlic Butter",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "difficulty": "Easy",
+    "cuisine": "American",
+    "meal_type": "dinner",
+    "diet": [
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "ribeye or strip steak",
+        "quantity": 2.0,
+        "unit": "pieces",
+        "notes": "approx 500g total, 1.5-inch thick"
+      },
+      {
+        "name": "butter",
+        "quantity": 3.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "garlic",
+        "quantity": 4.0,
+        "unit": "cloves",
+        "notes": "crushed"
+      },
+      {
+        "name": "fresh rosemary or thyme",
+        "quantity": 2.0,
+        "unit": "sprigs",
+        "notes": null
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "coarse sea salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "cracked black pepper",
+        "quantity": 0.75,
+        "unit": "tsp",
+        "notes": null
+      }
+    ],
+    "instructions": [
+      "Take steaks out of the refrigerator 30 minutes before cooking to bring them to room temperature. Pat completely dry with paper towels.",
+      "Season generously on all sides with coarse sea salt and freshly cracked black pepper.",
+      "Heat a heavy cast-iron skillet over high heat until smoking hot. Add olive oil and swirl to coat the pan.",
+      "Carefully lay the steaks in the skillet. Sear undisturbed for 3-4 minutes until a deep golden, caramelized crust forms.",
+      "Flip steaks. Immediately add butter, crushed garlic cloves, and fresh rosemary/thyme sprigs to the skillet.",
+      "Tilt the pan slightly and use a large spoon to continuously baste the bubbling garlic-herb butter over the top of the steaks for 2-3 minutes (aim for 54\u00b0C / 130\u00b0F internal for medium-rare).",
+      "Transfer steaks to a cutting board and rest for 5-7 minutes before slicing against the grain to keep all the delicious juices inside."
+    ],
+    "tips": "Resting the meat is critical! Slicing too early will cause all the flavorful juices to pour out onto the board."
+  }
+]

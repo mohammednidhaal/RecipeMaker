@@ -1,0 +1,242 @@
+{
+  "butter": {
+    "substitutes": [
+      {
+        "name": "Olive oil or vegetable oil",
+        "ratio": "3/4 cup oil for every 1 cup butter (in cooking) or 1:1 in sautéing",
+        "impact": "Keeps dishes moist; olive oil adds a fruity, savory aroma while neutral oils remain discreet.",
+        "best_for": ["sautéing", "roasting", "quick breads"]
+      },
+      {
+        "name": "Margarine or plant butter",
+        "ratio": "1:1 equivalent",
+        "impact": "Very similar moisture and melting point; slightly lower dairy aroma.",
+        "best_for": ["baking", "pan-frying", "toast spreads"]
+      },
+      {
+        "name": "Coconut oil",
+        "ratio": "1:1 equivalent",
+        "impact": "Solidifies similarly to butter; unrefined oil imparts a mild tropical coconut fragrance.",
+        "best_for": ["curries", "baking", "high-heat cooking"]
+      },
+      {
+        "name": "Greek yogurt or applesauce",
+        "ratio": "1/2 cup yogurt/applesauce for every 1 cup butter",
+        "impact": "Dramatically cuts fat and calories; creates dense, tender crumb in baking.",
+        "best_for": ["muffins", "pancakes", "quick breads"]
+      }
+    ]
+  },
+  "soy sauce": {
+    "substitutes": [
+      {
+        "name": "Tamari",
+        "ratio": "1:1 equivalent",
+        "impact": "Naturally gluten-free, richer and slightly thicker umami taste.",
+        "best_for": ["stir-fry", "marinades", "dipping sauce"]
+      },
+      {
+        "name": "Coconut aminos",
+        "ratio": "1:1 equivalent (add pinch of salt if needed)",
+        "impact": "Slightly sweeter and lower sodium than soy sauce.",
+        "best_for": ["paleo cooking", "stir-fry", "marinades"]
+      },
+      {
+        "name": "Worcestershire sauce mixed with water",
+        "ratio": "1 tsp Worcestershire + 1 tsp water for 1 tbsp soy sauce",
+        "impact": "Tangy and savory; notes of tamarind and vinegar.",
+        "best_for": ["meat glazes", "fried rice seasoning"]
+      },
+      {
+        "name": "Salt with chicken or vegetable broth",
+        "ratio": "1 tbsp broth + 1/4 tsp salt for 1 tbsp soy sauce",
+        "impact": "Provides savory moisture and sodium without soy fermentation nuances.",
+        "best_for": ["rice seasoning", "soups"]
+      }
+    ]
+  },
+  "milk": {
+    "substitutes": [
+      {
+        "name": "Oat milk or almond milk",
+        "ratio": "1:1 equivalent",
+        "impact": "Mild flavor; unsweetened versions perform almost identically to cow milk.",
+        "best_for": ["baking", "oatmeal", "sauces"]
+      },
+      {
+        "name": "Soy milk",
+        "ratio": "1:1 equivalent",
+        "impact": "High protein content makes it mimic whole milk texture very well.",
+        "best_for": ["baking", "sauces", "smoothies"]
+      },
+      {
+        "name": "Water with a dab of butter or oil",
+        "ratio": "1 cup water + 1 tbsp melted butter or oil for 1 cup milk",
+        "impact": "Supplies needed liquid volume and richness when dairy is unavailable.",
+        "best_for": ["pancakes", "waffles", "french toast batter"]
+      },
+      {
+        "name": "Coconut milk",
+        "ratio": "1:1 equivalent",
+        "impact": "Rich, creamy, and mildly sweet.",
+        "best_for": ["curries", "desserts", "soups"]
+      }
+    ]
+  },
+  "eggs": {
+    "substitutes": [
+      {
+        "name": "Flax egg (ground flaxseed + water)",
+        "ratio": "1 tbsp ground flaxseed + 3 tbsp water = 1 egg",
+        "impact": "Great binding power; adds a subtle nutty taste.",
+        "best_for": ["pancakes", "quick breads", "cookies"]
+      },
+      {
+        "name": "Mashed ripe banana",
+        "ratio": "1/2 medium banana = 1 egg",
+        "impact": "Adds moisture and sweet banana flavor.",
+        "best_for": ["muffins", "pancakes", "sweet breads"]
+      },
+      {
+        "name": "Silken tofu",
+        "ratio": "1/4 cup blended silken tofu = 1 egg",
+        "impact": "Neutral taste; provides dense, tender moisture and protein.",
+        "best_for": ["quiches", "dense cakes", "scrambles"]
+      },
+      {
+        "name": "Commercial egg replacer or aquafaba",
+        "ratio": "3 tbsp aquafaba (chickpea water) = 1 egg",
+        "impact": "Neutral flavor; can whip into soft peaks.",
+        "best_for": ["meringues", "baking", "coatings"]
+      }
+    ]
+  },
+  "onion": {
+    "substitutes": [
+      {
+        "name": "Shallots",
+        "ratio": "1 shallot for 1 small onion",
+        "impact": "Sweeter, milder, and more delicate aromatic profile.",
+        "best_for": ["sauces", "stir-fry", "dressings"]
+      },
+      {
+        "name": "Scallions (green onions) or leeks",
+        "ratio": "2-3 scallions for 1 small onion",
+        "impact": "Fresh, vegetal, and less pungent after brief cooking.",
+        "best_for": ["fried rice", "soups", "stir-fry"]
+      },
+      {
+        "name": "Onion powder",
+        "ratio": "1 tbsp onion powder for 1 medium fresh onion",
+        "impact": "Distributes savory allium flavor without textural crunch or moisture.",
+        "best_for": ["seasoning blends", "sauces", "soups"]
+      },
+      {
+        "name": "Celery and fennel bulbs",
+        "ratio": "1 cup diced celery/fennel for 1 cup chopped onion",
+        "impact": "Provides aromatic crunch and moisture without allium pungency.",
+        "best_for": ["allium-free cooking", "soups", "braises"]
+      }
+    ]
+  },
+  "garlic": {
+    "substitutes": [
+      {
+        "name": "Garlic powder",
+        "ratio": "1/8 tsp powder per fresh clove",
+        "impact": "Milder, roasted garlic warmth without fresh sharpness.",
+        "best_for": ["marinades", "dry rubs", "sauces"]
+      },
+      {
+        "name": "Shallots",
+        "ratio": "1/2 shallot per garlic clove",
+        "impact": "Subtle cross between garlic and sweet onion.",
+        "best_for": ["pastas", "sautéing"]
+      },
+      {
+        "name": "Asafoetida (Hing)",
+        "ratio": "Pinch (1/16 tsp) in hot oil per clove",
+        "impact": "Potent pungent aroma that mellows into garlic-onion notes.",
+        "best_for": ["curries", "lentils", "allium-free Indian cooking"]
+      }
+    ]
+  },
+  "tomato": {
+    "substitutes": [
+      {
+        "name": "Canned crushed or diced tomatoes",
+        "ratio": "1/2 cup canned for 1 medium fresh tomato",
+        "impact": "Denser, sweeter, and more concentrated umami.",
+        "best_for": ["pastas", "curries", "stews"]
+      },
+      {
+        "name": "Tomato paste + water",
+        "ratio": "1 tbsp tomato paste + 3 tbsp water per tomato",
+        "impact": "Intense tomato flavor; lacks fresh juicy chunks.",
+        "best_for": ["curries", "sauces", "rice dishes"]
+      },
+      {
+        "name": "Red bell pepper puree with lemon juice",
+        "ratio": "1:1 equivalent puree",
+        "impact": "Sweet, vibrant, and nightshade-alternative friendly.",
+        "best_for": ["pasta sauces", "soups"]
+      }
+    ]
+  },
+  "chicken": {
+    "substitutes": [
+      {
+        "name": "Firm or extra-firm tofu",
+        "ratio": "1:1 equivalent by weight",
+        "impact": "Absorbs marinades and spices beautifully; plant-based high protein.",
+        "best_for": ["stir-fry", "curries", "fried rice", "wraps"]
+      },
+      {
+        "name": "Paneer or halloumi",
+        "ratio": "1:1 equivalent by weight",
+        "impact": "Rich, milky, and holds firm bite when pan-fried.",
+        "best_for": ["curries", "skewers", "wraps"]
+      },
+      {
+        "name": "Chickpeas or white beans",
+        "ratio": "1 cup cooked beans for 200g chicken",
+        "impact": "Earthy, creamy, fiber-packed vegetarian staple.",
+        "best_for": ["curries", "rice bowls", "wraps", "salads"]
+      },
+      {
+        "name": "Mushrooms (Cremini or Portobello)",
+        "ratio": "1:1 equivalent by weight",
+        "impact": "Deep umami, meaty chew, savory and juicy.",
+        "best_for": ["pasta", "stir-fry", "skillet meals"]
+      }
+    ]
+  },
+  "rice": {
+    "substitutes": [
+      {
+        "name": "Quinoa",
+        "ratio": "1:1 equivalent",
+        "impact": "Nutty flavor, higher in complete protein and fiber.",
+        "best_for": ["grain bowls", "pilafs", "stir-fries"]
+      },
+      {
+        "name": "Cauliflower rice",
+        "ratio": "1:1 volume equivalent",
+        "impact": "Very low calorie and low carb; tender vegetal bite.",
+        "best_for": ["low-carb fried rice", "curry accompaniment"]
+      },
+      {
+        "name": "Couscous or bulgur",
+        "ratio": "1:1 equivalent",
+        "impact": "Fast-cooking wheat semolina with fluffy, light texture.",
+        "best_for": ["Mediterranean bowls", "stews", "salads"]
+      },
+      {
+        "name": "Riced or small pasta (Orzo)",
+        "ratio": "1:1 equivalent",
+        "impact": "Silky, tender texture; pairs well with tomato-based sauces.",
+        "best_for": ["one-pot dishes", "pasta salads"]
+      }
+    ]
+  }
+}

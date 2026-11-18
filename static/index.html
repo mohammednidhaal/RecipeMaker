@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RecipeMate AI — Live Cooking & Recipe Assistant</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand-icon">🍳</span>
+        <div class="brand-text">
+          <h1>RecipeMate AI</h1>
+          <span class="status-badge" id="live-indicator"><span class="pulse-dot"></span> Live Assistant</span>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="open-key-modal-btn" class="icon-btn highlight" title="Configure Live Gemini or OpenAI API Key">🔑 Live AI Key</button>
+        <button id="toggle-sidebar-btn" class="icon-btn" title="Toggle Cooking Board">📋 Board</button>
+        <button id="reset-chat-btn" class="icon-btn danger" title="New Conversation">🔄 Reset</button>
+      </div>
+    </header>
+
+    <!-- Main Content Container -->
+    <div class="main-container">
+      <!-- Chat Column -->
+      <section class="chat-section">
+        <!-- Quick Action Buttons -->
+        <div class="quick-actions-bar">
+          <button class="quick-chip" data-prompt="Give me a full recipe for Authentic Chicken Biryani">🥘 Chicken Biryani</button>
+          <button class="quick-chip" data-prompt="How do I make Butter Chicken? Give me the complete recipe.">🍛 Butter Chicken</button>
+          <button class="quick-chip" data-prompt="Give me a full recipe for Pan-Seared Salmon with Lemon and Asparagus">🐟 Salmon & Asparagus</button>
+          <button class="quick-chip" data-prompt="How to make classic fluffy pancakes?">🥞 Fluffy Pancakes</button>
+          <button class="quick-chip" data-prompt="I have chicken, rice, onion and tomato. What can I make?">🍗 Use My Ingredients</button>
+          <button class="quick-chip" data-prompt="Make a 7-day dinner plan.">📅 Plan My Week</button>
+          <button class="quick-chip" data-prompt="I don't have butter. What can I substitute?">🧈 Find Substitute</button>
+        </div>
+
+        <!-- Chat History -->
+        <div class="chat-messages" id="chat-messages">
+          <div class="message-row ai-row">
+            <div class="avatar ai-avatar">🍳</div>
+            <div class="message-content">
+              <div class="bubble ai-bubble">
+                <p>Hello! I'm <strong>RecipeMate AI</strong>, your live cooking assistant.</p>
+                <p>Tell me <strong>any food item or dish you crave</strong> (like <em>Biryani</em>, <em>Butter Chicken</em>, <em>Tacos</em>, <em>Pasta Carbonara</em>, <em>Pancakes</em>), or type the ingredients you have in your kitchen, and I will give you the <strong>full, step-by-step recipe immediately</strong>!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Safety Confirmation Banner (PRD Section 15.1) -->
+        <div class="confirmation-banner" id="confirmation-banner" style="display: none;">
+          <div class="confirmation-content">
+            <span class="confirm-icon">🛡️</span>
+            <span class="confirm-text" id="confirm-text">Would you like me to remember this preference?</span>
+          </div>
+          <div class="confirm-actions">
+            <button class="btn btn-primary" id="confirm-yes-btn">Yes, remember</button>
+            <button class="btn btn-secondary" id="confirm-no-btn">No, thanks</button>
+          </div>
+        </div>
+
+        <!-- Input Bar -->
+        <footer class="chat-input-bar">
+          <form id="chat-form" class="chat-form">
+            <input 
+              type="text" 
+              id="user-input" 
+              placeholder="Ask for ANY dish (e.g. 'How to make Biryani', 'Salmon recipe', 'Make it spicy', 'For 6 people')..." 
+              autocomplete="off"
+            />
+            <button type="submit" id="send-btn" class="send-btn">
+              <span>Send</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+              </svg>
+            </button>
+          </form>
+        </footer>
+      </section>
+
+      <!-- Context & Agent Board Sidebar -->
+      <aside class="sidebar" id="agent-sidebar">
+        <!-- Agent Loop Visualizer (PRD Section 6) -->
+        <div class="sidebar-card">
+          <div class="card-header">
+            <h3>🧠 Agent Thinking & Plan</h3>
+            <span class="badge info" id="agent-step-badge">Idle</span>
+          </div>
+          <div class="card-body">
+            <div class="plan-box" id="plan-box">
+              <p class="empty-hint">Observing user request. Ask for any dish to see the Think → Act → Look loop in action.</p>
+            </div>
+            <div class="action-logs" id="action-logs-box">
+              <span class="log-title">Live Action Log:</span>
+              <ul id="action-logs-list" class="log-list">
+                <li class="log-item muted">Live Agent connected.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Active Recipe Card (PRD Section 11 & 17) -->
+        <div class="sidebar-card" id="active-recipe-card">
+          <div class="card-header">
+            <h3>📖 Active Dish in Context</h3>
+            <div class="serving-stepper" id="serving-stepper" style="display: none;">
+              <button class="step-btn" id="servings-dec-btn" title="Decrease servings">-</button>
+              <span id="servings-display">2 servings</span>
+              <button class="step-btn" id="servings-inc-btn" title="Increase servings">+</button>
+            </div>
+          </div>
+          <div class="card-body" id="active-recipe-body">
+            <p class="empty-hint">No dish selected yet. Ask for any recipe above!</p>
+          </div>
+        </div>
+
+        <!-- Saved Preferences / Memory Card (PRD Section 13) -->
+        <div class="sidebar-card">
+          <div class="card-header">
+            <h3>💾 Saved Memory</h3>
+            <button class="link-btn danger" id="clear-memory-btn">Clear</button>
+          </div>
+          <div class="card-body" id="preferences-body">
+            <p class="empty-hint">No preferences saved in memory yet.</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- API Key Configuration Modal -->
+  <div class="modal-overlay" id="api-key-modal" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>🔑 Connect Live AI Model</h3>
+        <button class="close-modal-btn" id="close-key-modal-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-desc">
+          RecipeMate AI works out-of-the-box with its built-in <strong>Universal Culinary Synthesizer</strong>. 
+          To unlock unlimited natural language conversational reasoning, paste your free <strong>Google Gemini API key</strong> or <strong>OpenAI key</strong>:
+        </p>
+        <div class="form-group">
+          <label for="provider-select">AI Provider:</label>
+          <select id="provider-select" class="form-select">
+            <option value="gemini">Google Gemini (Recommended - Free Tier Available)</option>
+            <option value="openai">OpenAI / Groq / OpenRouter</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="api-key-input">API Key:</label>
+          <input type="password" id="api-key-input" class="form-input" placeholder="AIzaSy... or sk-..." />
+        </div>
+        <div class="modal-actions">
+          <button class="btn btn-secondary" id="cancel-key-btn">Close</button>
+          <button class="btn btn-primary" id="save-key-btn">Save & Activate</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
